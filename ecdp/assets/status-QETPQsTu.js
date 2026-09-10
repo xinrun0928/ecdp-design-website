@@ -1,0 +1,1 @@
+const a=[{label:"待填报",value:"待填报"},{label:"待提交",value:"待提交"},{label:"已审核",value:"已审核"}],t={待填报:"warning",待提交:"danger",已审核:"success"},l=[{label:"已发布",value:"已发布"},{label:"未发布",value:"未发布"}];export{a,l as b,t as d};

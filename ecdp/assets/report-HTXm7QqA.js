@@ -1,0 +1,1 @@
+const e={CONSULTATION:"consultation",COMPLAINT:"complaint",OTHER:"other"},l=[{label:"咨询类",value:e.CONSULTATION},{label:"投诉类",value:e.COMPLAINT},{label:"其他",value:e.OTHER}],a={INFORMATION:"资讯类",COMPLAINT:"投诉类",OTHER:"其他"},o=[{label:"资讯类",value:a.INFORMATION},{label:"投诉类",value:a.COMPLAINT},{label:"其他",value:a.OTHER}];export{e as D,l as d,o as p};

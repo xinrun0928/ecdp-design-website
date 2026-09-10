@@ -1,0 +1,1 @@
+const s={NORMAL:1101,DISABLED:1102},a=[{label:"正常",value:s.NORMAL},{label:"停用",value:s.DISABLED}],t={[s.NORMAL]:"success",[s.DISABLED]:"danger"},L={[s.NORMAL]:"正常",[s.DISABLED]:"停用"};export{L as a,t as b,a as s};

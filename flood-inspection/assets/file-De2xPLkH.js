@@ -1,0 +1,2 @@
+import{f}from"./randomMock-BnXBY1mw.js";import{p as r}from"./element-plus-D60thvil.js";function s(e){const t=e==null?"":String(e);return/[",\n\r]/.test(t)?`"${t.replace(/"/g,'""')}"`:t}function u(e,t,o){if(!o.length){r.warning("暂无数据可导出");return}const a=[t.map(s).join(","),...o.map(l=>l.map(s).join(","))].join(`
+`),i=new Blob(["\uFEFF"+a],{type:"text/csv;charset=utf-8"}),c=URL.createObjectURL(i),n=document.createElement("a");n.href=c,n.download=`${e}_${f(Date.now(),"YYYY-MM-DD")}.csv`,n.click(),URL.revokeObjectURL(c),r.success("导出成功")}export{u as e};

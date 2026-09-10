@@ -1,0 +1,1 @@
+const o="sso_token",e="sso_user";function c(t){const s=`sso_token_${Date.now()}`;localStorage.setItem(o,s),localStorage.setItem(e,t)}function a(){localStorage.removeItem(o),localStorage.removeItem(e)}export{a as c,c as s};

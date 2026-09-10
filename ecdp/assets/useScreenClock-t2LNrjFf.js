@@ -1,0 +1,1 @@
+import{z as n}from"./index-BQSjtNr4.js";import{p as o,o as a,z as s}from"./vue-vendor-CrWx_I7L.js";function c(e="YYYY-MM-DD HH:mm:ss"){const t=o(n(new Date,e));let r;return a(()=>{r=setInterval(()=>{t.value=n(new Date,e)},1e3)}),s(()=>{clearInterval(r)}),{currentTime:t}}export{c as u};
