@@ -1,1 +1,0 @@
-import{f as t}from"./element-plus-Dr3fSiJz.js";import{b as o}from"./index-C6T6MYmY.js";import{G as a,L as r,M as s,a0 as c}from"./vue-vendor-36ScqD7W.js";const n={class:"placeholder-page"},p=a({__name:"ChartCenter",setup(_){return(m,d)=>{const e=t;return r(),s("div",n,[c(e,{description:"页面开发中..."})])}}}),h=o(p,[["__scopeId","data-v-073aca6a"]]);export{h as default};

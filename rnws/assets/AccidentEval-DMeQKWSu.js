@@ -1,1 +1,0 @@
-import{f as t}from"./element-plus-Dr3fSiJz.js";import{b as o}from"./index-C6T6MYmY.js";import{G as c,L as a,M as s,a0 as n}from"./vue-vendor-36ScqD7W.js";const p={class:"placeholder-page"},r=c({__name:"AccidentEval",setup(_){return(m,d)=>{const e=t;return a(),s("div",p,[n(e,{description:"页面开发中..."})])}}}),E=o(r,[["__scopeId","data-v-cd061be0"]]);export{E as default};
