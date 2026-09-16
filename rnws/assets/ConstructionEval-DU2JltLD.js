@@ -1,1 +1,0 @@
-import{f as o}from"./element-plus-Dr3fSiJz.js";import{b as t}from"./index-JyXn3z__.js";import{G as s,L as a,M as c,a0 as n}from"./vue-vendor-36ScqD7W.js";const r={class:"placeholder-page"},p=s({__name:"ConstructionEval",setup(_){return(m,i)=>{const e=o;return a(),c("div",r,[n(e,{description:"页面开发中..."})])}}}),u=t(p,[["__scopeId","data-v-08e35433"]]);export{u as default};

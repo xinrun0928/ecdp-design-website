@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- 停车位指标图标（蓝色圆角块 + P） -->
+  <rect x="2.5" y="2.5" width="19" height="19" rx="4.5" fill="rgba(74,168,255,0.16)" stroke="#4aa8ff" stroke-width="1.6"/>
+  <path d="M8.5 18.5 V5.5 H14 A4.2 4.2 0 0 1 14 13.9 H8.5" fill="none" stroke="#4aa8ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

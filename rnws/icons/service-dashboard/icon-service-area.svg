@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- 服务区建筑（实景图占位用） -->
+  <g fill="none" stroke="#7fb8e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+    <path d="M6 40 H42"/>
+    <path d="M9 40 V20 L24 12 L39 20 V40"/>
+    <path d="M15 40 V28 H23 V40"/>
+    <path d="M27 26 H35 V34 H27 Z"/>
+    <path d="M9 20 L24 12 L39 20"/>
+  </g>
+  <circle cx="38" cy="14" r="3" fill="#7fb8e8" opacity="0.75"/>
+</svg>

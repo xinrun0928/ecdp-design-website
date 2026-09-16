@@ -1,1 +1,0 @@
-import{f as e}from"./element-plus-Dr3fSiJz.js";import{b as t}from"./index-JyXn3z__.js";import{G as a,L as s,M as r,a0 as c}from"./vue-vendor-36ScqD7W.js";const n={class:"placeholder-page"},p=a({__name:"FormConfig",setup(_){return(m,i)=>{const o=e;return s(),r("div",n,[c(o,{description:"页面开发中..."})])}}}),u=t(p,[["__scopeId","data-v-15a547a1"]]);export{u as default};

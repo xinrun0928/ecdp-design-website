@@ -1,1 +1,0 @@
-import{f as o}from"./element-plus-Dr3fSiJz.js";import{b as a}from"./index-JyXn3z__.js";import{G as t,L as p,M as s,a0 as c}from"./vue-vendor-36ScqD7W.js";const r={class:"placeholder-page"},_=t({__name:"DataApproval",setup(n){return(m,l)=>{const e=o;return p(),s("div",r,[c(e,{description:"页面开发中..."})])}}}),u=a(_,[["__scopeId","data-v-7f683cad"]]);export{u as default};

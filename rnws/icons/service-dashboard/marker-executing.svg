@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- 执行中服务区（黄色圆 + 白色对勾） -->
+  <circle cx="12" cy="12" r="9.5" fill="#f1c40f" stroke="#ffffff" stroke-width="1.6"/>
+  <path d="M7.6 12.4 L10.6 15.2 L16.4 8.8" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- 饱和服务区（红色圆点 + 白描边，外圈脉冲由页面 CSS 实现） -->
+  <circle cx="12" cy="12" r="8.5" fill="#ff5b5b" stroke="#ffffff" stroke-width="1.8"/>
+  <circle cx="12" cy="12" r="3.2" fill="#ffffff"/>
+</svg>

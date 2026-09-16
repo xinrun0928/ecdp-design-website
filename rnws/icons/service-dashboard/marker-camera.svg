@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- 监控摄像机（地图标记用） -->
+  <g stroke="#0c2c58" stroke-width="1.2" fill="none">
+    <path d="M9 15 V19 M5.5 19 H12.5" stroke="#eef4ff" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <rect x="3" y="6" width="15" height="8" rx="2.2" fill="#eef4ff" stroke="#0c2c58" stroke-width="1"/>
+  <path d="M18 8.5 L22 6.5 V13.5 L18 11.5 Z" fill="#eef4ff" stroke="#0c2c58" stroke-width="1" stroke-linejoin="round"/>
+  <circle cx="7.2" cy="10" r="1.9" fill="#0c2c58"/>
+  <circle cx="7.2" cy="10" r="0.8" fill="#eef4ff"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- 非饱和服务区（蓝色圆点 + 白描边） -->
+  <circle cx="12" cy="12" r="8.5" fill="#3f8cff" stroke="#ffffff" stroke-width="1.8"/>
+  <circle cx="12" cy="12" r="3" fill="#ffffff" opacity="0.9"/>
+</svg>
