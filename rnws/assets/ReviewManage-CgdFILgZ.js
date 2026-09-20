@@ -1,1 +1,0 @@
-import{f as o}from"./element-plus-CRrrJWiJ.js";import{b as t}from"./index-BARSaO2J.js";import{G as a,L as s,M as c,a0 as n}from"./vue-vendor-36ScqD7W.js";const p={class:"placeholder-page"},r=a({__name:"ReviewManage",setup(_){return(m,i)=>{const e=o;return s(),c("div",p,[n(e,{description:"页面开发中..."})])}}}),u=t(r,[["__scopeId","data-v-5730164d"]]);export{u as default};

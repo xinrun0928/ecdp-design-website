@@ -1,0 +1,1 @@
+import{f as o}from"./element-plus-BWhg1ceO.js";import{b as t}from"./index-BDy4qIHw.js";import{G as a,L as s,M as c,a0 as r}from"./vue-vendor-C26IkPHP.js";const p={class:"placeholder-page"},_=a({__name:"HolidayForecast",setup(n){return(d,m)=>{const e=o;return s(),c("div",p,[r(e,{description:"页面开发中..."})])}}}),u=t(_,[["__scopeId","data-v-f6d6cfd8"]]);export{u as default};

@@ -1,0 +1,1 @@
+import{G as n,n as s,L as c,M as u,az as p,aA as _}from"./vue-vendor-B_-BtTOt.js";const d=n({__name:"index",setup(i){const o=p(),r=_();return s(()=>{const{params:t,query:a}=o,{path:e}=t;r.replace({path:"/"+(Array.isArray(e)?e.join("/"):e),query:a})}),(t,a)=>(c(),u("div"))}});export{d as default};

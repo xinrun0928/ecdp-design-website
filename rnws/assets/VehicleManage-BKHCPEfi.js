@@ -1,1 +1,0 @@
-import{f as o}from"./element-plus-CRrrJWiJ.js";import{b as a}from"./index-BARSaO2J.js";import{G as t,L as c,M as s,a0 as n}from"./vue-vendor-36ScqD7W.js";const p={class:"placeholder-page"},r=t({__name:"VehicleManage",setup(_){return(m,i)=>{const e=o;return c(),s("div",p,[n(e,{description:"页面开发中..."})])}}}),h=a(r,[["__scopeId","data-v-0d4f8af1"]]);export{h as default};
