@@ -1,0 +1,1 @@
+import{f as o}from"./element-plus-BWhg1ceO.js";import{f as t}from"./index-CvdAzHgd.js";import{G as a,L as c,M as s,a0 as r}from"./vue-vendor-C26IkPHP.js";const p={class:"placeholder-page"},_=a({__name:"DataSource",setup(n){return(m,d)=>{const e=o;return c(),s("div",p,[r(e,{description:"页面开发中..."})])}}}),u=t(_,[["__scopeId","data-v-8bd62411"]]);export{u as default};

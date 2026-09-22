@@ -1,1 +1,0 @@
-import{f as o}from"./element-plus-BWhg1ceO.js";import{f as t}from"./index-CbPhzk2J.js";import{G as a,L as s,M as c,a0 as p}from"./vue-vendor-C26IkPHP.js";const r={class:"placeholder-page"},_=a({__name:"DailyReport",setup(n){return(m,i)=>{const e=o;return s(),c("div",r,[p(e,{description:"页面开发中..."})])}}}),u=t(_,[["__scopeId","data-v-c70299bf"]]);export{u as default};

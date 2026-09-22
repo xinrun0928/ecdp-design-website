@@ -1,0 +1,1 @@
+import{f as e}from"./element-plus-BWhg1ceO.js";import{f as t}from"./index-CvdAzHgd.js";import{G as a,L as r,M as c,a0 as n}from"./vue-vendor-C26IkPHP.js";const s={class:"placeholder-page"},p=a({__name:"AbnormalIndicator",setup(_){return(m,d)=>{const o=e;return r(),c("div",s,[n(o,{description:"页面开发中..."})])}}}),u=t(p,[["__scopeId","data-v-a7932166"]]);export{u as default};

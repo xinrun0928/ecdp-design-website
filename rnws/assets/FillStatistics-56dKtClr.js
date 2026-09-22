@@ -1,1 +1,0 @@
-import{f as e}from"./element-plus-BWhg1ceO.js";import{f as o}from"./index-CbPhzk2J.js";import{G as s,L as a,M as c,a0 as p}from"./vue-vendor-C26IkPHP.js";const r={class:"placeholder-page"},_=s({__name:"FillStatistics",setup(n){return(i,l)=>{const t=e;return a(),c("div",r,[p(t,{description:"页面开发中..."})])}}}),u=o(_,[["__scopeId","data-v-a4048929"]]);export{u as default};

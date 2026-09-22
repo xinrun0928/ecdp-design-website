@@ -1,1 +1,0 @@
-import{f as o}from"./element-plus-BWhg1ceO.js";import{f as t}from"./index-CbPhzk2J.js";import{G as s,L as a,M as c,a0 as p}from"./vue-vendor-C26IkPHP.js";const r={class:"placeholder-page"},_=s({__name:"TaskFill",setup(n){return(l,m)=>{const e=o;return a(),c("div",r,[p(e,{description:"页面开发中..."})])}}}),k=t(_,[["__scopeId","data-v-58164deb"]]);export{k as default};

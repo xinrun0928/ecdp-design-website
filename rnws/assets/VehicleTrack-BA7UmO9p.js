@@ -1,1 +1,0 @@
-import{f as o}from"./element-plus-BWhg1ceO.js";import{f as t}from"./index-CbPhzk2J.js";import{G as c,L as a,M as s,a0 as r}from"./vue-vendor-C26IkPHP.js";const p={class:"placeholder-page"},_=c({__name:"VehicleTrack",setup(n){return(m,i)=>{const e=o;return a(),s("div",p,[r(e,{description:"页面开发中..."})])}}}),h=t(_,[["__scopeId","data-v-4d36a6cb"]]);export{h as default};
