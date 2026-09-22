@@ -1,1 +1,0 @@
-import{f as t}from"./element-plus-BWhg1ceO.js";import{b as o}from"./index-BDy4qIHw.js";import{G as a,L as n,M as s,a0 as c}from"./vue-vendor-C26IkPHP.js";const p={class:"placeholder-page"},r=a({__name:"UnitManage",setup(_){return(m,i)=>{const e=t;return n(),s("div",p,[c(e,{description:"页面开发中..."})])}}}),u=o(r,[["__scopeId","data-v-22780b38"]]);export{u as default};

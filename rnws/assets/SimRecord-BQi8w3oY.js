@@ -1,0 +1,1 @@
+import{f as o}from"./element-plus-BWhg1ceO.js";import{b as t}from"./index-BFYUqjX5.js";import{G as a,L as c,M as s,a0 as r}from"./vue-vendor-C26IkPHP.js";const p={class:"placeholder-page"},_=a({__name:"SimRecord",setup(n){return(m,d)=>{const e=o;return c(),s("div",p,[r(e,{description:"页面开发中..."})])}}}),u=t(_,[["__scopeId","data-v-a347307e"]]);export{u as default};

@@ -1,0 +1,1 @@
+import{f as t}from"./element-plus-BWhg1ceO.js";import{b as o}from"./index-BFYUqjX5.js";import{G as a,L as s,M as c,a0 as n}from"./vue-vendor-C26IkPHP.js";const p={class:"placeholder-page"},r=a({__name:"ChainList",setup(_){return(i,m)=>{const e=t;return s(),c("div",p,[n(e,{description:"页面开发中..."})])}}}),h=o(r,[["__scopeId","data-v-6d7b6c5a"]]);export{h as default};

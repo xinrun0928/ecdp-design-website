@@ -1,0 +1,1 @@
+import{f as o}from"./element-plus-BWhg1ceO.js";import{b as t}from"./index-BFYUqjX5.js";import{G as s,L as a,M as r,a0 as c}from"./vue-vendor-C26IkPHP.js";const n={class:"placeholder-page"},p=s({__name:"ControlMeasure",setup(_){return(m,l)=>{const e=o;return a(),r("div",n,[c(e,{description:"页面开发中..."})])}}}),u=t(p,[["__scopeId","data-v-76db1f75"]]);export{u as default};
