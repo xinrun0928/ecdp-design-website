@@ -1,0 +1,1 @@
+import{f as o}from"./element-plus-BWhg1ceO.js";import{f as t}from"./index-CbPhzk2J.js";import{G as a,L as s,M as r,a0 as c}from"./vue-vendor-C26IkPHP.js";const n={class:"placeholder-page"},p=a({__name:"ChartConfig",setup(_){return(m,f)=>{const e=o;return s(),r("div",n,[c(e,{description:"页面开发中..."})])}}}),h=t(p,[["__scopeId","data-v-602e0fea"]]);export{h as default};
