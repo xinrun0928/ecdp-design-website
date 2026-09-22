@@ -1,0 +1,1 @@
+import{f as a}from"./element-plus-BWhg1ceO.js";import{f as o}from"./index-pIjIegc5.js";import{G as t,L as s,M as c,a0 as n}from"./vue-vendor-C26IkPHP.js";const p={class:"placeholder-page"},r=t({__name:"TaskManage",setup(_){return(m,d)=>{const e=a;return s(),c("div",p,[n(e,{description:"页面开发中..."})])}}}),k=o(r,[["__scopeId","data-v-978fdce3"]]);export{k as default};

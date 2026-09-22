@@ -1,1 +1,0 @@
-import{f as o}from"./element-plus-BWhg1ceO.js";import{f as t}from"./index-CvdAzHgd.js";import{G as c,L as a,M as s,a0 as n}from"./vue-vendor-C26IkPHP.js";const p={class:"placeholder-page"},r=c({__name:"Efficiency",setup(_){return(f,i)=>{const e=o;return a(),s("div",p,[n(e,{description:"页面开发中..."})])}}}),E=t(r,[["__scopeId","data-v-b5f16abe"]]);export{E as default};
