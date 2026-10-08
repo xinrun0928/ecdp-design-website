@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="40" viewBox="0 0 32 40">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#c9a2ff"/>
-      <stop offset="1" stop-color="#7b3fd9"/>
+    <linearGradient id="pin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9a6ff"/>
+      <stop offset="1" stop-color="#7a4fe0"/>
     </linearGradient>
   </defs>
-  <path d="M16 2C8.3 2 2.5 8 2.5 15.3 2.5 25 16 37 16 37s13.5-12 13.5-21.7C29.5 8 23.7 2 16 2Z" fill="url(#g)" stroke="rgba(255,255,255,0.9)" stroke-width="1.5"/>
-  <circle cx="16" cy="15" r="8.2" fill="rgba(255,255,255,0.94)"/>
-<g fill="#6c2fd9"><circle cx="13.2" cy="14.8" r="2.7"/><circle cx="17.4" cy="13.6" r="3.2"/><circle cx="19.8" cy="15.9" r="2.3"/><rect x="10.9" y="15.4" width="11" height="2.9" rx="1.45"/></g>
+  <ellipse cx="16" cy="37" rx="5.5" ry="1.6" fill="rgba(2,10,24,0.4)"/>
+  <path d="M16 2C8.3 2 2.5 8 2.5 15.3 2.5 25 16 37 16 37s13.5-12 13.5-21.7C29.5 8 23.7 2 16 2Z" fill="url(#pin)" stroke="rgba(255,255,255,0.85)" stroke-width="1.4"/>
+  <circle cx="16" cy="15" r="9.4" fill="rgba(6,16,34,0.35)"/>
+  <circle cx="16" cy="15" r="8.2" fill="rgba(255,255,255,0.95)"/>
+  <path d="M11.7 16.1h8.6a2.5 2.5 0 0 0 .3-4.9 3.6 3.6 0 0 0-7-.9 2.9 2.9 0 0 0-1.9 5.8Z" fill="#7a4fe0"/>
+  <path d="M13.4 18.1l-.8 2.1M16.4 18.1l-.8 2.1M19.4 18.1l-.8 2.1" stroke="#7a4fe0" stroke-width="1.5" stroke-linecap="round"/>
 </svg>

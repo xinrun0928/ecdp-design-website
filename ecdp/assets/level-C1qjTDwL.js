@@ -1,0 +1,1 @@
+const R={MINOR:"轻微",GENERAL:"一般",LARGE:"较大",MAJOR:"重大",PARTICULARLY_MAJOR:"特别重大"},e=[{label:R.PARTICULARLY_MAJOR,value:R.PARTICULARLY_MAJOR},{label:R.MAJOR,value:R.MAJOR},{label:R.LARGE,value:R.LARGE},{label:R.GENERAL,value:R.GENERAL},{label:R.MINOR,value:R.MINOR}],A=e;export{R as A,e as a,A as b};

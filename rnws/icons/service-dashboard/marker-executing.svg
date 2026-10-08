@@ -1,5 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <!-- 执行中服务区（黄色圆 + 白色对勾） -->
-  <circle cx="12" cy="12" r="9.5" fill="#f1c40f" stroke="#ffffff" stroke-width="1.6"/>
-  <path d="M7.6 12.4 L10.6 15.2 L16.4 8.8" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <radialGradient id="d" cx="0.5" cy="0.32" r="0.85">
+      <stop offset="0" stop-color="#ffd76a"/>
+      <stop offset="1" stop-color="#e0a012"/>
+    </radialGradient>
+  </defs>
+  <circle cx="16" cy="16" r="12.6" fill="rgba(2,10,24,0.38)"/>
+  <circle cx="16" cy="16" r="11" fill="url(#d)" stroke="rgba(255,255,255,0.9)" stroke-width="1.5"/>
+  <path d="M13.2 10.8l7.4 5.2-7.4 5.2Z" fill="#ffffff"/>
+  <path d="M11.4 10.8v10.4" stroke="rgba(255,255,255,0.85)" stroke-width="1.9" stroke-linecap="round"/>
 </svg>

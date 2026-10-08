@@ -1,0 +1,1 @@
+const a={RED:"红色",ORANGE:"橙色",YELLOW:"黄色",BLUE:"蓝色",REMIND:"提醒"},E=[{label:a.RED,value:a.RED},{label:a.ORANGE,value:a.ORANGE},{label:a.YELLOW,value:a.YELLOW},{label:a.BLUE,value:a.BLUE},{label:a.REMIND,value:a.REMIND}],e={[a.RED]:"danger",[a.ORANGE]:"warning",[a.YELLOW]:"info",[a.BLUE]:"",[a.REMIND]:"info"};export{a as W,e as a,E as w};

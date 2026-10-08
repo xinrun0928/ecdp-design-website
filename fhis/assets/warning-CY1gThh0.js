@@ -1,0 +1,1 @@
+const L={RED:"RED",ORANGE:"ORANGE",YELLOW:"YELLOW",BLUE:"BLUE"},a={RED:"红色",ORANGE:"橙色",YELLOW:"黄色",BLUE:"蓝色"};Object.keys(L).map(E=>({label:a[E],value:E}));const e={RED:"#F56C6C",ORANGE:"#E6A23C",YELLOW:"#E6A23C",BLUE:"#409EFF"};export{e as w};

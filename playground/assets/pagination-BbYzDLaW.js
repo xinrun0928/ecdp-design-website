@@ -1,0 +1,1 @@
+function e(n,...t){const r=(n??"").trim().toLowerCase();return r?t.some(o=>o!=null&&String(o).toLowerCase().includes(r)):!0}function s(n,t,r){return t<1||r<1?[]:n.slice((t-1)*r,t*r)}export{e as m,s as p};

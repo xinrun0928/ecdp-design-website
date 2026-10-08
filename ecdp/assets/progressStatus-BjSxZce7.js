@@ -1,0 +1,1 @@
+const E={NOT_STARTED:"未开始",IN_PROGRESS:"进行中",COMPLETED:"已完成",ENDED:"已结束"},s=[{label:E.NOT_STARTED,value:E.NOT_STARTED},{label:E.IN_PROGRESS,value:E.IN_PROGRESS},{label:E.COMPLETED,value:E.COMPLETED},{label:E.ENDED,value:E.ENDED}],a={[E.NOT_STARTED]:"info",[E.IN_PROGRESS]:"warning",[E.COMPLETED]:"success",[E.ENDED]:"info"};export{E as P,s as a,a as p};

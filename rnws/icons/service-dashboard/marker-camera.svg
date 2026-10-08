@@ -1,10 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <!-- 监控摄像机（地图标记用） -->
-  <g stroke="#0c2c58" stroke-width="1.2" fill="none">
-    <path d="M9 15 V19 M5.5 19 H12.5" stroke="#eef4ff" stroke-width="2" stroke-linecap="round"/>
-  </g>
-  <rect x="3" y="6" width="15" height="8" rx="2.2" fill="#eef4ff" stroke="#0c2c58" stroke-width="1"/>
-  <path d="M18 8.5 L22 6.5 V13.5 L18 11.5 Z" fill="#eef4ff" stroke="#0c2c58" stroke-width="1" stroke-linejoin="round"/>
-  <circle cx="7.2" cy="10" r="1.9" fill="#0c2c58"/>
-  <circle cx="7.2" cy="10" r="0.8" fill="#eef4ff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <radialGradient id="d" cx="0.5" cy="0.32" r="0.85">
+      <stop offset="0" stop-color="#5a86c8"/>
+      <stop offset="1" stop-color="#1d3f78"/>
+    </radialGradient>
+  </defs>
+  <circle cx="16" cy="16" r="12.6" fill="rgba(2,10,24,0.38)"/>
+  <circle cx="16" cy="16" r="11" fill="url(#d)" stroke="rgba(255,255,255,0.9)" stroke-width="1.5"/>
+  <rect x="8.6" y="12" width="14.8" height="8.6" rx="1.8" fill="#eef4ff"/>
+  <path d="M13.4 12l1.4-2.3h2.4l1.4 2.3" fill="#eef4ff"/>
+  <circle cx="16" cy="16.3" r="2.6" fill="#1d3f78"/>
+  <circle cx="16" cy="16.3" r="1.2" fill="#9ed1ff"/>
+  <rect x="24" y="14.1" width="2.1" height="4.4" rx="0.9" fill="#eef4ff"/>
 </svg>

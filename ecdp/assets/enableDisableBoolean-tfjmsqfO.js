@@ -1,0 +1,1 @@
+const e={ENABLED:!0,DISABLED:!1},a=[{label:"启用",value:"true"},{label:"停用",value:"false"}],l=[{label:"启用",value:"true"},{label:"停用",value:"false"}],s={true:"success",false:"info"},o={true:"启用",false:"停用"};export{e as E,s as a,o as b,l as c,a as e};

@@ -1,0 +1,1 @@
+const E={PENDING:"待审核",APPROVED:"已通过",REJECTED:"不通过"},l=[{label:E.PENDING,value:E.PENDING},{label:E.APPROVED,value:E.APPROVED},{label:E.REJECTED,value:E.REJECTED}],a=[{label:"全部",value:"全部"},{label:E.PENDING,value:E.PENDING},{label:E.APPROVED,value:E.APPROVED},{label:E.REJECTED,value:E.REJECTED}];export{E as A,l as a,a as b};

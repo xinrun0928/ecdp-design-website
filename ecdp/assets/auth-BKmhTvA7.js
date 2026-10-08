@@ -1,0 +1,1 @@
+const E={INTERNAL:1,EXTERNAL:2};E.INTERNAL,E.EXTERNAL;E.INTERNAL+"",E.EXTERNAL+"";E.INTERNAL+"",E.EXTERNAL+"";const e={EMBED:1},s={SMS:"sms",EMAIL:"email"},a=[{label:"短信验证",value:s.SMS},{label:"邮箱验证",value:s.EMAIL}],N={PASSWORD:"password",SMS:"sms"},n={DUTY:1,PLAN:2,EVENT:3,DISPATCH:4,MATERIAL:5,DECISION:6,FUSION:7,ADMIN:99};export{N as L,e as O,E as S,s as V,n as a,a as v};
