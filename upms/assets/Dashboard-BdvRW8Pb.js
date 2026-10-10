@@ -1,0 +1,1 @@
+import{P as e}from"./PlaceholderPage-D3zKGUjW.js";import{G as o,O as r,L as a}from"./vue-vendor-CYCT-Zs3.js";import"./element-plus-FTcyDTKl.js";import"./index-XehKi6pI.js";const _=o({__name:"Dashboard",setup(t){return(p,s)=>(a(),r(e,{description:"超管视角（全局版）首页建设中，敬请期待"}))}});export{_ as default};
