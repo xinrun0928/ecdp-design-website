@@ -1,0 +1,1 @@
+const C="新增成功",E="编辑成功",S="删除成功",s="状态已切换",_="暂无数据可导出",A=300,T=["#409EFF","#67C23A","#E6A23C","#F56C6C","#9B59B6","#1ABC9C"],F=["#409EFF","#67C23A","#E6A23C","#F56C6C","#909399","#9B59B6","#00BCD4","#FF9800","#3F51B5","#79A38B"];export{T as A,E as M,F as P,C as a,s as b,S as c,A as d,_ as e};

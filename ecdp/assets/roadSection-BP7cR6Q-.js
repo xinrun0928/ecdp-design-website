@@ -1,0 +1,1 @@
+const r={OWNER:"owner",SECOND_OWNER:"second_owner",MANAGEMENT_UNIT:"management_unit",FIRST_GUARDIAN:"first_guardian",SECOND_GUARDIAN:"second_guardian",THIRD_GUARDIAN:"third_guardian"};function t(n,a){return n.filter(e=>e.relType===a).map(e=>e.orgName).join("、")}export{r as P,t as g};

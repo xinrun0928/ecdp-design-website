@@ -1,0 +1,1 @@
+import{P as e}from"./PlaceholderPage-DyuxsRPO.js";import{G as o,O as r,L as a}from"./vue-vendor-CYCT-Zs3.js";import"./element-plus-FTcyDTKl.js";import"./index-BGoR6y1A.js";const _=o({__name:"Dashboard",setup(t){return(p,s)=>(a(),r(e,{description:"组织成员视角首页建设中，敬请期待"}))}});export{_ as default};

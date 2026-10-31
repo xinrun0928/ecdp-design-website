@@ -1,0 +1,1 @@
+import{D as l,f as r,x as f}from"./vue-vendor-DCzEy28a.js";function c(u=60){const n=f(0);let t=null;function e(){t&&(clearInterval(t),t=null),n.value=0}function o(a=u){e(),n.value=a,t=setInterval(()=>{n.value--,n.value<=0&&e()},1e3)}return l(e),{countdown:n,counting:r(()=>n.value>0),start:o,stop:e}}export{c as u};
